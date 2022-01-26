@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "keyVaultName": {
+      "value": "ravitestvault456"
+    },
+    "objectId": {
+      "value": "f10aa267-6015-4102-8f90-97cac1d1ab37"
+    },
+    "secretName": {
+      "value": "Origin-user1"
+    },
+    "secretValue": {
+      "value": "Origin-pass456"
+    }
+  }
+}
